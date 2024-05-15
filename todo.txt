@@ -1,0 +1,26 @@
+May-7-2024
+
+https://leetcode.com/problems/3sum/
+https://leetcode.com/problems/longest-substring-without-repeating-characters - DONE
+https://leetcode.com/problems/longest-common-prefix - DONE
+https://leetcode.com/problems/remove-element - DONE
+https://leetcode.com/problems/zigzag-conversion
+
+
+
+May-8-2024
+
+https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75 - DONE - M
+https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75 - DONE - M
+https://leetcode.com/problems/move-zeroes/editorial/?envType=study-plan-v2&envId=leetcode-75
+https://leetcode.com/problems/sort-colors/description/ - DONE
+
+
+May-9-2024
+https://www.youtube.com/watch?v=QQYeipc_cik - useEffect
+https://www.youtube.com/watch?v=EFg3u_E6eHU - Dijsktra
+https://www.youtube.com/watch?v=3BN-YHcJfOY - React Interview Qs
+
+May-10-2024
+https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75 - Done
+https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75 
