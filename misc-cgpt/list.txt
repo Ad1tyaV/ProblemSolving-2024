@@ -1,0 +1,43 @@
+Arrays and Strings:
+
+Find the maximum sum subarray of a given array (Kadane’s Algorithm).
+Rotate an array by k positions to the right.
+Determine if two strings are anagrams of each other.
+Implement strstr() (substring search).
+
+Linked Lists:
+
+Reverse a linked list.
+Detect a cycle in a linked list.
+Find the middle of a linked list.
+Merge two sorted linked lists into one sorted linked list.
+
+Trees and Graphs:
+
+Implement depth-first search (DFS) and breadth-first search (BFS) for a graph.
+Validate if a binary tree is a binary search tree (BST).
+Find the lowest common ancestor (LCA) of two nodes in a binary tree.
+Check if a graph is bipartite.
+
+Dynamic Programming:
+
+Calculate the nth Fibonacci number using dynamic programming.
+Coin change problem (minimum number of coins to make a sum).
+Longest increasing subsequence in an array.
+0/1 Knapsack problem.
+
+
+Sorting and Searching:
+
+Implement quicksort or mergesort.
+Quick select
+Search in a rotated sorted array (e.g., find the pivot element).
+Find the kth largest (or smallest) element in an array.
+Count occurrences of a number in a sorted array.
+
+Miscellaneous:
+
+Implement a stack using queues and vice versa.
+Design a data structure that supports insert, delete, getRandom() operations in average O(1) time.
+Evaluate a postfix expression (Reverse Polish Notation).
+Given a set of intervals, merge overlapping intervals

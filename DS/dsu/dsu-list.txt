@@ -1,0 +1,24 @@
+Number of Connected Components in an Undirected Graph:
+
+LeetCode 323: Given an undirected graph, count the number of connected components.
+Problem Link
+Friend Circles:
+
+LeetCode 547: Count the number of friend circles in a given friendship matrix.
+Problem Link
+Accounts Merge:
+
+LeetCode 721: Given a list of accounts where each element is a list of email addresses, merge the accounts that have any common email addresses.
+Problem Link
+Redundant Connection:
+
+LeetCode 684: In a given undirected graph that contains one extra edge, find the edge that can be removed so that the graph becomes a tree.
+Problem Link
+Smallest String With Swaps:
+
+LeetCode 1202: Given a string and an array of pairs of indices, determine the lexicographically smallest string that can be obtained by swapping elements at the given indices any number of times.
+Problem Link
+Island Perimeter (with a slight DSU twist):
+
+LeetCode 463: Given a grid with land and water, find the perimeter of the island. You can use DSU to find the connected land components.
+Problem Link
